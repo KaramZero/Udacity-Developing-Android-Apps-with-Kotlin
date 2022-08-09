@@ -6,7 +6,7 @@ Google
 
 - [About](#about)
 - [Libraries](#Libraries)
-- [Usage](#usage)
+
 
 ## About <a name = "about"></a>
 
