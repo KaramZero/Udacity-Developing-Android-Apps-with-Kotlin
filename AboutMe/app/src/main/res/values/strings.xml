@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="hello_world">Hello World!</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio"><![CDATA[Experiment with adding an ImageView \n \n  above the TextView inside \n \nthe ScrollView. When you run t\n \nhe app, this image, unlike the st\n \nar, will scroll out of vi\n \new as the text scrolls up. Hint: You will need to wrap the two scroll\n \nable views into a LinearLayout inside \n \nthe ScrollView. ScrollView > LinerLayout > I\n \nmageView + TextView Below is a skeleton code version for\n \n this challenge. The important thing to remember is that since ScrollView can \n \nonly have one child, you have to wrap that ImageVie\n \nw and the TextView into a LinearLayout. \n \n \n \n \n \n There\n \n is no solution code \n \n\n \n provided for this challenge, but\n \n the skeleton code below gives you the expected view hierarchy to use. SKELETON code of view hierarchy:]]></string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
